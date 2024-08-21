@@ -1,0 +1,17 @@
+{
+    "name": "game-buying-backend",
+    "version": "1.0.0",
+    "description": "Backend API for Game Buying Website",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "author": "Nomad",
+    "license": "MIT",
+    "dependencies": {
+      "express": "^4.17.1",
+      "body-parser": "^1.19.0",
+      "mongodb": "^4.1.0"
+    }
+  }
+  
